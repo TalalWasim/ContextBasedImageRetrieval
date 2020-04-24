@@ -1,0 +1,7 @@
+pyglet==1.4.8
+tensorflow==2.0.0
+scipy==1.4.1
+tqdm==4.41.0
+matplotlib==3.1.2
+numpy==1.17.4+mkl
+scikit_learn==0.22.2.post1
