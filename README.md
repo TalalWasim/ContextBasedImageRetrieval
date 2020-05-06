@@ -22,4 +22,4 @@ This application allows the user to search for images similar to a query image. 
 Click on the 'select image' button to select an image.  
 Click on the 'view matches' button to view the matching images.  
 
-You can more information about this project [here](https://talalwasim.weebly.com/context-based-image-retrieval.html)
+You can find more information about this project [HERE](https://talalwasim.weebly.com/context-based-image-retrieval.html).
